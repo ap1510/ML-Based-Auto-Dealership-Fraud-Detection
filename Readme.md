@@ -10,7 +10,8 @@ This project identifies fraudulent practices in auto dealerships by analyzing **
    - **Advertised Price Discrepancies**  
    - **APR Issues**  
    - **Refund Problems**  
-   - **Title Registration Delays**  
+   - **Title Registration Delays** 
+ 
 5️⃣ **Evaluation** → Optimized using **GridSearchCV & Cross-validation**.  
 
 ---
@@ -20,7 +21,7 @@ This project identifies fraudulent practices in auto dealerships by analyzing **
 📦 Auto-Dealership-Fraud-Detection
  ┣ 📜 Auto_Dealership_Analysis_Summary.pdf # Summary of the Analysis
  ┣ 📂 Data/                    # Sample datasets (cleaned & raw)
- ┣ 📂 models/                   # Saved trained models (.sav files)
+ ┣ 📂 models/saved model                   # Saved trained models (.sav files)
  ┣ 📂 src/                      # Python scripts for each ML model
  ┣ 📂 Tf-Idf Vectors            # Word Embeddings for the reviews
  ┣ 📂 Data Extraction           # Webscraping Script
