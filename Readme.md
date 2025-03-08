@@ -56,13 +56,5 @@ This project identifies fraudulent practices in auto dealerships by analyzing **
 ## 🤝 Contributing
 Want to improve this project? Feel free to **fork & submit PRs!**
 
----
 
-## 📩 Contact
-👤 **Aditya Parashar**  
-📧 Email: adityaparashar1150@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/adityaparashar149](https://linkedin.com/in/adityaparashar149)  
-📂 GitHub: [github.com/yourgithub](https://github.com/yourgithub)  
-
-🚀 **Let’s build AI-driven fraud detection together!**
 
